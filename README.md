@@ -7,7 +7,7 @@ www.analysis.ie
 Does you bank or employer put passwords on your bank statement or payslip despite it being your document?!
 If so, you can remove the password using this free, tiny, desktop app. 
 
-Upzip the "PDF P Word Remover" zip file: PDFPasswordRemover.zip
+Unzip the "PDF P Word Remover" zip file: PDFPasswordRemover.zip
 Click the PDFPasswordRemover.exe file. 
 
 - Select a password‑protected PDF
